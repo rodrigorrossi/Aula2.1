@@ -1,3 +1,4 @@
 - Wagner Moura
-- Johnny Dep
+- Paola Oliveira
 - Bryan Cranston
+- Brad Pitt
